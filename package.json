@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "nexe index.js",
+    "build": "nexe index.js --target mac-x64-12.13.0",
     "start": "node index.js"
   },
   "keywords": [],
